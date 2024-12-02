@@ -1,0 +1,1 @@
+from pcinotify.test.fixtures.request_endorsement import PCIRequestEndorsementFixtureFactory
